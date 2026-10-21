@@ -1,0 +1,27 @@
+# Local QA output and browser profiles
+tmp/
+test-results/
+
+# Dependencies and generated builds
+node_modules/
+dist/
+build/
+coverage/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and transient files
+*.log
+*.tmp
+*.bak
+*.swp

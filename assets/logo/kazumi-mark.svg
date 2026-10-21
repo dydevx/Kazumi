@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Kazumi Emblem</title>
+  <desc id="desc">Stilisiertes fünfblättriges Blütenemblem</desc>
+  <g fill="none" stroke="#d4af37" stroke-width="2.5">
+    <circle cx="60" cy="60" r="50"/>
+    <circle cx="60" cy="60" r="42" opacity=".45"/>
+  </g>
+  <g fill="#f5f0e6" stroke="#d4af37" stroke-width="1.25" stroke-linejoin="round">
+    <path d="M60 57c-9-9-9-24 0-32 9 8 9 23 0 32Z"/>
+    <path d="M63 58c5-12 19-16 30-10-5 11-19 16-30 10Z"/>
+    <path d="M62 63c13-1 22 10 20 22-12 2-23-8-20-22Z"/>
+    <path d="M57 63c3 13-8 24-20 22-2-12 7-23 20-22Z"/>
+    <path d="M57 58c-12 6-25 1-30-10 11-6 25-2 30 10Z"/>
+  </g>
+  <circle cx="60" cy="60" r="7" fill="#d4af37"/>
+  <path d="M42 96h36" stroke="#d4af37" stroke-width="2" stroke-linecap="round"/>
+  <text x="60" y="108" fill="#f5f0e6" font-family="Georgia, 'Times New Roman', serif" font-size="9" letter-spacing="2.4" text-anchor="middle">KAZUMI</text>
+</svg>
